@@ -1,0 +1,1 @@
+Al ejecutar el Jar, este permite agregarle una entrada deseada como parametro al ejecutar el jar, todo parametro distinto de "s" es aceptado. Si no se ingreso nada entonces el programa pedira una entrada.
